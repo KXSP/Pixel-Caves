@@ -15,8 +15,9 @@ public class Camera : MonoBehaviour
     {
         Vector3 temp = transform.position;
         temp.x = Player.position.x;
-        temp.y = Player.position.y;
+     asdasd   temp.y = Player.position.y;
 
         transform.position = temp;
-    }
+   asd }
 }
+asdaasdada
